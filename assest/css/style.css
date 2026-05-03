@@ -179,6 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .more-text p{
     font-size: 15px;
+    color: white;
 }
 
 .book{
@@ -227,6 +228,10 @@ h1, h2, h3, h4, h5, h6 {
 .booking-btn:hover{
     background-color: var(--btn-color);
     transform: translateY(-9px);
+}
+
+.ex-text p{
+    color: white;
 }
 
 .bounce-arrow{
